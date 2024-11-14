@@ -1,1 +1,5 @@
-public class Type {}
+package main;
+
+public enum Type {
+    PAWN, KNIGHT, BISHOP, ROOK, QUEEN, KING
+}
